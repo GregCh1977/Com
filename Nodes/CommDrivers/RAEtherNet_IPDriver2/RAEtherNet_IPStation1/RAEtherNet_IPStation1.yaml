@@ -1,5 +1,5 @@
-Name: RAEtherNet_IPStation2
-Id: g=46efcb47593a17a04d265067b39e9cf4
+Name: RAEtherNet_IPStation1
+Id: g=230d1bd2e2ecc5dd045766246c6f0866
 Type: RAEtherNetIPStation
 Children:
 - Name: Route
@@ -34,7 +34,7 @@ Children:
   Type: BaseObjectType
   Children:
   - Name: Spindle1
-    Id: g=54fb0a30532640df55662c8512559e6d
+    Id: g=9b2fdf398e1101de8a14420f75af25dc
     Supertype: TagStructure
     Children:
     - Name: Current

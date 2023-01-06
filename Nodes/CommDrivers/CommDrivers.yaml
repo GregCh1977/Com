@@ -1,4 +1,6 @@
 Name: CommDrivers
+Id: g=a6c5cc5c90352836d49cbc8c250ea757
 Type: FolderType
 Children:
 - File: RAEtherNet_IPDriver1/RAEtherNet_IPDriver1.yaml
+- File: RAEtherNet_IPDriver2/RAEtherNet_IPDriver2.yaml

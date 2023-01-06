@@ -4,7 +4,8 @@ Children:
 - Name: Controller Tags
   Type: TagStructure
   Children:
-  - Name: SpindleWidget
+  - Name: Spindlewidget
+    Id: g=75d5c45231a020127571561858a99e37
     Type: TagStructureArray
     Children:
     - Name: ArrayDimensions
@@ -24,7 +25,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[0].Current"
+          Value: "Spindlewidget[0].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -33,7 +34,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[0].Speed"
+          Value: "Spindlewidget[0].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -42,7 +43,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[0].Status"
+          Value: "Spindlewidget[0].Status"
     - Name: 1
       Type: Spindle1
       Children:
@@ -54,7 +55,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[1].Current"
+          Value: "Spindlewidget[1].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -63,7 +64,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[1].Speed"
+          Value: "Spindlewidget[1].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -72,7 +73,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[1].Status"
+          Value: "Spindlewidget[1].Status"
     - Name: 2
       Type: Spindle1
       Children:
@@ -84,7 +85,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[2].Current"
+          Value: "Spindlewidget[2].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -93,7 +94,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[2].Speed"
+          Value: "Spindlewidget[2].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -102,7 +103,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[2].Status"
+          Value: "Spindlewidget[2].Status"
     - Name: 3
       Type: Spindle1
       Children:
@@ -114,7 +115,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[3].Current"
+          Value: "Spindlewidget[3].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -123,7 +124,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[3].Speed"
+          Value: "Spindlewidget[3].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -132,7 +133,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[3].Status"
+          Value: "Spindlewidget[3].Status"
     - Name: 4
       Type: Spindle1
       Children:
@@ -144,7 +145,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[4].Current"
+          Value: "Spindlewidget[4].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -153,7 +154,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[4].Speed"
+          Value: "Spindlewidget[4].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -162,7 +163,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[4].Status"
+          Value: "Spindlewidget[4].Status"
     - Name: 5
       Type: Spindle1
       Children:
@@ -174,7 +175,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[5].Current"
+          Value: "Spindlewidget[5].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -183,7 +184,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[5].Speed"
+          Value: "Spindlewidget[5].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -192,7 +193,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[5].Status"
+          Value: "Spindlewidget[5].Status"
     - Name: 6
       Type: Spindle1
       Children:
@@ -204,7 +205,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[6].Current"
+          Value: "Spindlewidget[6].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -213,7 +214,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[6].Speed"
+          Value: "Spindlewidget[6].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -222,7 +223,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[6].Status"
+          Value: "Spindlewidget[6].Status"
     - Name: 7
       Type: Spindle1
       Children:
@@ -234,7 +235,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[7].Current"
+          Value: "Spindlewidget[7].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -243,7 +244,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[7].Speed"
+          Value: "Spindlewidget[7].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -252,7 +253,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[7].Status"
+          Value: "Spindlewidget[7].Status"
     - Name: 8
       Type: Spindle1
       Children:
@@ -264,7 +265,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[8].Current"
+          Value: "Spindlewidget[8].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -273,7 +274,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[8].Speed"
+          Value: "Spindlewidget[8].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -282,7 +283,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[8].Status"
+          Value: "Spindlewidget[8].Status"
     - Name: 9
       Type: Spindle1
       Children:
@@ -294,7 +295,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[9].Current"
+          Value: "Spindlewidget[9].Current"
       - Name: Speed
         Type: RAEtherNetIPTag
         DataType: Int16
@@ -303,7 +304,7 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[9].Speed"
+          Value: "Spindlewidget[9].Speed"
       - Name: Status
         Type: RAEtherNetIPTag
         DataType: Boolean
@@ -312,4 +313,4 @@ Children:
         - Name: SymbolName
           Type: BaseDataVariableType
           DataType: String
-          Value: "SpindleWidget[9].Status"
+          Value: "Spindlewidget[9].Status"
