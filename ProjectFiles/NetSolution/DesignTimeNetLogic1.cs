@@ -11,6 +11,7 @@ using FTOptix.CoreBase;
 using FTOptix.NetLogic;
 using FTOptix.RAEtherNetIP;
 using FTOptix.CommunicationDriver;
+using FTOptix.CODESYS;
 #endregion
 
 public class DesignTimeNetLogic1 : BaseNetLogic
