@@ -1,0 +1,4 @@
+Name: RAEtherNet_IPDriver3
+Type: RAEtherNetIPDriver
+Children:
+- File: RAEtherNet_IPStation1/RAEtherNet_IPStation1.yaml

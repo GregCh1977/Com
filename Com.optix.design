@@ -26,3 +26,4 @@ Project:
  Nodes:
  - File: DesignTimeNodes/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/TagImporter.yaml
  - File: DesignTimeNodes/CommDrivers/RAEtherNet_IPDriver2/RAEtherNet_IPStation1/TagImporter.yaml
+ - File: DesignTimeNodes/CommDrivers/RAEtherNet_IPDriver3/RAEtherNet_IPStation1/TagImporter.yaml
